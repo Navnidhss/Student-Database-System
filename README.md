@@ -7,7 +7,7 @@ A Student database management program
 ## Features
 - Adding new students to the database
 - Editing existing student details
-- View all students present in the databse
+- View all students present in the database
 - Filter by course or status of study
 - Find student with highest CWA within specific parameters
 - Calculate average CWA per course
