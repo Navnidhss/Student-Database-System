@@ -1,6 +1,5 @@
 # Student-Database-System
 Java based Student Record Management System
-# Student Database Assignment
 
 ## Overview
 A Student database management program
