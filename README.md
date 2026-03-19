@@ -1,4 +1,4 @@
-# Student Database System
+# Student Database Management System
 
 ## Overview
 A robust, Java-based command-line application designed to manage student records
