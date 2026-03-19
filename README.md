@@ -1,7 +1,7 @@
-# Student Database Assignment
+# Student Database System
 
 ## Overview
-A simplistic Student database management program
+A robust, Java-based command-line application designed to manage student records
 
 ## Features
 - Add new students
